@@ -24,6 +24,6 @@
   "description": "OotyTea",
   
   "publishConfig": {
-  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  "@karan18o:registry": "https://npm.pkg.github.com"
   }
 }
