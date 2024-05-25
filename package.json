@@ -21,5 +21,9 @@
     "url": "https://github.com/karan18o/OotyTea/issues"
   },
   "homepage": "https://github.com/karan18o/OotyTea/tree/main#readme",
-  "description": "OotyTea"
+  "description": "OotyTea",
+  
+  "publishConfig": {
+  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
