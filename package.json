@@ -1,5 +1,5 @@
 {
-  "name": "default_workspace",
+  "name": "ootytea",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -21,9 +21,5 @@
     "url": "https://github.com/karan18o/OotyTea/issues"
   },
   "homepage": "https://github.com/karan18o/OotyTea/tree/main#readme",
-  "description": "OotyTea",
-  
-  "publishConfig": {
-  "@karan18o:registry": "https://npm.pkg.github.com"
-  }
+  "description": "OotyTea"
 }
